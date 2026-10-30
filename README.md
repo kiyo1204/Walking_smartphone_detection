@@ -25,7 +25,10 @@
 2.  メールアドレスの設定.
   - メール送信には *.sreamlit/secrets.toml* の[email]の値の設定が必要です.
   - 送信用のメールアドレス(Gmail)[^1]とアプリパスワードを設定してください.
-     [^1]: Gmailでないと動かないライブラリのため
+  > アプリパスワードについて<br>
+  > https://support.google.com/accounts/answer/185833?hl=ja&authuser=1
+
+[^1]: Gmailでないと動かないライブラリのため
 
 3. 起動
    - start.batをダブルクリックだけで起動できます
